@@ -45,7 +45,7 @@
 
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
                 <div class="flex justify-center pt-8 sm:justify-start sm:pt-0">
-                    <img src="/images/top.png" width="100" height="100" ><h1>有給管理</h1>
+                    <h1>有給管理</h1>
                 </div>
             </div>
         </div>
